@@ -18,7 +18,7 @@ Testing
 - Unit tests are in Vehicles.Api.xUnit
 
 Known limitations / considerations for future
-- Some tests missing - time constraint
+- Some tests missing
 - I added (and used) soft-delete `IsDeleted` property rather than deleting the vehicle object
 - As commented in the interface, realistically I would have paginated all GET requests - not just one
 - Put all error strings into a seperate file 
