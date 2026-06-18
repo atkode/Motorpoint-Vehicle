@@ -1,7 +1,7 @@
 Ran locally using Swagger UI.
 
 Notes:
-- I'm not sure if it was out of scope of the task to add Ids to the vehicles.json, but I thought it was the best way to use the additional HTTP requests I added
+- I'm not sure if it was out of scope of the task (or overkill) to add Ids to the vehicles.json, but I thought it was the best way to use the additional HTTP requests I added
 
 Endpoints:
 - GET `/vehicles/get-all`  
