@@ -2,6 +2,7 @@ Ran locally using Swagger UI.
 
 Notes:
 - I'm not sure if it was out of scope of the task (or overkill) to add Ids to the vehicles.json, but I thought it was the best way to use the additional HTTP requests I added
+- Rather than multiple TRY CATCH, I added GlobalExeptionHandler for troubleshooting and to not expose errors to the user
 
 Endpoints:
 - GET `/vehicles/get-all`  
